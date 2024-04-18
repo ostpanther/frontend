@@ -1,3 +1,3 @@
 # frontend
 
-Some my pet-project while studying JS, HTML, CSS
+Some of my pet-project while studying JS, HTML, CSS
